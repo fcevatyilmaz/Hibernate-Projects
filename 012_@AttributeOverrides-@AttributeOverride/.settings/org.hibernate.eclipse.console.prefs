@@ -1,0 +1,3 @@
+default.configuration=012_@AttributeOverrides-@AttributeOverride
+eclipse.preferences.version=1
+hibernate3.enabled=true
